@@ -1,6 +1,8 @@
 RenderMan for Blender Installation Instructions
 ------------------------------------------
 
+(NOTE: current Mac support is limited to Intel Macs only.)
+
 1.  Install Blender if not already (2.83 LTS recommended)
 
 2.  Register for the free Non-Commercial Version of RenderMan from Pixar.
