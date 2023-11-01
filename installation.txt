@@ -1,5 +1,6 @@
 RenderMan for Blender Installation Instructions
 ------------------------------------------
+(NOTE: current **MacOS** support is limited to the **Intel** variant; M1/M2 Macs can still run RenderManForBlender on the Mac/Intel version of Blender)
 
 1.  Install Blender if not already (2.83 LTS recommended)
 
